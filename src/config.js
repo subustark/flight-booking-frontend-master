@@ -1,3 +1,3 @@
 export const config = {
-  api: "https://flight-booking-pkdp.onrender.com",
+  api: "https://flight-booking-be.onrender.com",
 };
